@@ -1,0 +1,19 @@
+THENAR C9 DEMO R1 — PRINTING QUOTE ONLY — 16 OCTOBER 2026
+
+We are developing actuators for the Thenar JX1 robot. This package is a small-stepper bench demonstrator for learning about fit and reduction. It is not a 36 Nm actuator or a robot-ready part.
+
+Please quote:
+1. One full print set, one of each of the 13 STL files, including the fit coupon.
+2. Twenty identical full print sets as an indicative development-batch price.
+3. A separate price for printing only the fit coupon first.
+
+Baseline: FDM PLA/PLA+, 0.2 mm layers, six walls and six top/bottom layers. Quote 60% infill for the housings and 100% for working disc, eccentric, output carrier/flange and spacers. Please state filament brand, printer/process, orientation, support removal and any finishing needed. Alternative PETG or PA12 can be quoted separately with the process stated.
+
+STL units are millimetres. Do not rescale or alter the gear profile. Inspect bearing seats and pin holes; tell us achievable tolerances and any DFM issues. Print coupon first before committing to final bearing fits. Quantity and dimensions are in print-manifest.json. The STEP assembly is an assembly reference, not one object to print. Motor, bearings, steel pins and fasteners are excluded from the print scope.
+
+Please break down price for one set and twenty sets, setup charges, material/print weight, post-processing, GST, shipping to Hyderabad and lead time. State the reprint policy for out-of-tolerance parts. Assembly can be a separate optional line item.
+
+We will validate one demo before deciding on a batch. This is a quotation request only; please do not start manufacture. Final JX1 actuator quantities and designs will differ from this bench demonstrator.
+
+Project: https://github.com/nickthelegend/thenar-actuator
+Contact: Nivesh, Thenar — please reply to the enquiry email.

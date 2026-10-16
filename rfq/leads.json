@@ -1,0 +1,14 @@
+{
+  "verified_on": "2026-10-16",
+  "printing_enquiries": [
+    {"company":"iMake","relationship":"previous rotor enquiry; FDM capability verified","email":"info@imake.in","phone":"+91 94942 69431","source":"https://www.imake.in/contact.html","capabilities":"https://www.imake.in/fdm.html"},
+    {"company":"think3D","relationship":"new printing lead","email":"info@think3d.in","phone":"+91 81428 96564","source":"https://www.think3d.in/about-us/","capabilities":"https://www.think3d.in/3d-printing/"},
+    {"company":"ProtoValue3D","relationship":"new local printing lead","email":"info@protovalue3d.in","phone":"+91 7382987672","source":"https://www.protovalue3d.in/contact","capabilities":"3D printing and product development listed on contact page"}
+  ],
+  "existing_machining_leads_for_later": [
+    {"company":"Saishree Precision Engineering","email":"info@sspe.in","source":"https://sspe.in/services","reason_not_sent_print_request":"CNC capability verified; FDM printing not established. Retain for engineered metal revision."},
+    {"company":"Pranav Dynamics","email":"mfg@pranavenggindia.com","source":"https://www.pranavdynamics.com/","reason_not_sent_print_request":"CNC supplier; retain for engineered metal revision."}
+  ],
+  "quotes_received_for_this_package": [],
+  "note":"No prices, manufacturing order or 20-unit commitment are implied. Private sending receipts are kept outside the public repository."
+}

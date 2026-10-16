@@ -1,0 +1,145 @@
+[
+  {
+    "part": "01-back-plate",
+    "quantity_per_set": 1,
+    "bbox_mm": [
+      110.034,
+      110.0,
+      8.034
+    ],
+    "solid_volume_cm3": 71.683,
+    "note": "Motor face at Z0. Four M3 motor screws. Pin pockets face up."
+  },
+  {
+    "part": "02-case-ring",
+    "quantity_per_set": 1,
+    "bbox_mm": [
+      110.034,
+      110.0,
+      38.034
+    ],
+    "solid_volume_cm3": 82.525,
+    "note": "Print flat; 38 mm high. No integrated rollers."
+  },
+  {
+    "part": "03-front-bearing-cover",
+    "quantity_per_set": 1,
+    "bbox_mm": [
+      110.034,
+      110.0,
+      15.034
+    ],
+    "solid_volume_cm3": 116.733,
+    "note": "6005 bearing seat starts 3 mm from underside; retainer screws form threads in pilot holes."
+  },
+  {
+    "part": "04-bearing-retainer",
+    "quantity_per_set": 1,
+    "bbox_mm": [
+      68.021,
+      68.0,
+      3.021
+    ],
+    "solid_volume_cm3": 8.636,
+    "note": "Three M3x12 screws, bearing retention only. Bottom face retains outer bearing ring at Z61."
+  },
+  {
+    "part": "05-cycloidal-disc",
+    "quantity_per_set": 1,
+    "bbox_mm": [
+      79.87,
+      80.728,
+      6.007
+    ],
+    "solid_volume_cm3": 24.353,
+    "note": "9 lobes; print broad face down; retain profile exactly."
+  },
+  {
+    "part": "06-input-eccentric",
+    "quantity_per_set": 1,
+    "bbox_mm": [
+      16.011,
+      16.006,
+      27.007
+    ],
+    "solid_volume_cm3": 3.857,
+    "note": "Blind shaft bore; one M3 nut and M3x8 clamp screw. Shaft flat and length must be measured."
+  },
+  {
+    "part": "07-output-carrier",
+    "quantity_per_set": 1,
+    "bbox_mm": [
+      70.022,
+      70.0,
+      31.015
+    ],
+    "solid_volume_cm3": 34.606,
+    "note": "Separate flange allows bearing installation over journal. Pins need retaining compound suitable for PLA."
+  },
+  {
+    "part": "11-output-flange",
+    "quantity_per_set": 1,
+    "bbox_mm": [
+      56.017,
+      56.0,
+      8.014
+    ],
+    "solid_volume_cm3": 16.049,
+    "note": "Three M3x14 screws attach to carrier. 46 PCD and 34x2 pilot reference unverified JX1 M assumptions. Not a robot-ready interface."
+  },
+  {
+    "part": "09-split-inner-spacer-A",
+    "quantity_per_set": 1,
+    "bbox_mm": [
+      29.609,
+      14.805,
+      6.009
+    ],
+    "solid_volume_cm3": 0.58,
+    "note": "Print two complementary halves as supplied. Contacts inner race only."
+  },
+  {
+    "part": "09-split-inner-spacer-B",
+    "quantity_per_set": 1,
+    "bbox_mm": [
+      29.609,
+      14.805,
+      6.009
+    ],
+    "solid_volume_cm3": 0.58,
+    "note": "Mate to matching A half; check axial end float after assembly."
+  },
+  {
+    "part": "10-split-inner-spacer-A",
+    "quantity_per_set": 1,
+    "bbox_mm": [
+      29.609,
+      14.805,
+      7.009
+    ],
+    "solid_volume_cm3": 0.677,
+    "note": "Print two complementary halves as supplied. Contacts inner race only."
+  },
+  {
+    "part": "10-split-inner-spacer-B",
+    "quantity_per_set": 1,
+    "bbox_mm": [
+      29.609,
+      14.805,
+      7.009
+    ],
+    "solid_volume_cm3": 0.677,
+    "note": "Mate to matching A half; check axial end float after assembly."
+  },
+  {
+    "part": "08-fit-coupon",
+    "quantity_per_set": 1,
+    "bbox_mm": [
+      96.0,
+      32.0,
+      5.007
+    ],
+    "solid_volume_cm3": 9.447,
+    "note": "Coupon is not an actuator part. Left-to-right bores 22.0,22.2,22.4,5.2 mm."
+  }
+]

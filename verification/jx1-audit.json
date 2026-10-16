@@ -1,0 +1,119 @@
+{
+  "source_repo": "nickthelegend/thenar-jx1",
+  "source_commit": "384de0f801f8a03af6b32420fd2efed343133eb0",
+  "audit_date": "2026-10-16",
+  "classes": [
+    {
+      "actuator_class": "XL",
+      "count": 4,
+      "locations": [
+        "hip_pitch",
+        "knee"
+      ],
+      "selected_peak_Nm": 120,
+      "selected_rated_Nm": 40
+    },
+    {
+      "actuator_class": "L",
+      "count": 2,
+      "locations": [
+        "hip_roll"
+      ],
+      "selected_peak_Nm": 60,
+      "selected_rated_Nm": 20
+    },
+    {
+      "actuator_class": "M",
+      "count": 7,
+      "locations": [
+        "hip_yaw",
+        "ankle_motor_A",
+        "ankle_motor_B",
+        "waist_yaw"
+      ],
+      "selected_peak_Nm": 36,
+      "selected_rated_Nm": 11
+    },
+    {
+      "actuator_class": "S",
+      "count": 4,
+      "locations": [
+        "shoulder_pitch",
+        "shoulder_roll"
+      ],
+      "selected_peak_Nm": 17,
+      "selected_rated_Nm": 6
+    },
+    {
+      "actuator_class": "XS",
+      "count": 4,
+      "locations": [
+        "shoulder_yaw",
+        "elbow"
+      ],
+      "selected_peak_Nm": 14,
+      "selected_rated_Nm": 5
+    },
+    {
+      "actuator_class": "NECK",
+      "count": 2,
+      "locations": [
+        "neck_yaw",
+        "neck_pitch"
+      ],
+      "selected_peak_Nm": 1.9,
+      "selected_rated_Nm": null
+    }
+  ],
+  "main_actuators": 21,
+  "neck_servos": 2,
+  "declared_joint_count": 23,
+  "ratio_trade": [
+    {
+      "ratio": 9,
+      "assumed_efficiency": 0.8,
+      "motor_torque_for_36Nm": 5.0,
+      "motor_rpm_at_hypothetical_output_6rad_s": 515.662015617741,
+      "holding_arithmetic_only_output_Nm": 3.9600000000000004
+    },
+    {
+      "ratio": 15,
+      "assumed_efficiency": 0.8,
+      "motor_torque_for_36Nm": 3.0,
+      "motor_rpm_at_hypothetical_output_6rad_s": 859.4366926962349,
+      "holding_arithmetic_only_output_Nm": 6.6000000000000005
+    },
+    {
+      "ratio": 20,
+      "assumed_efficiency": 0.8,
+      "motor_torque_for_36Nm": 2.25,
+      "motor_rpm_at_hypothetical_output_6rad_s": 1145.9155902616465,
+      "holding_arithmetic_only_output_Nm": 8.8
+    },
+    {
+      "ratio": 30,
+      "assumed_efficiency": 0.8,
+      "motor_torque_for_36Nm": 1.5,
+      "motor_rpm_at_hypothetical_output_6rad_s": 1718.8733853924698,
+      "holding_arithmetic_only_output_Nm": 13.200000000000001
+    },
+    {
+      "ratio": 50,
+      "assumed_efficiency": 0.8,
+      "motor_torque_for_36Nm": 0.9,
+      "motor_rpm_at_hypothetical_output_6rad_s": 2864.7889756541163,
+      "holding_arithmetic_only_output_Nm": 22.000000000000004
+    },
+    {
+      "ratio": 82,
+      "assumed_efficiency": 0.8,
+      "motor_torque_for_36Nm": 0.548780487804878,
+      "motor_rpm_at_hypothetical_output_6rad_s": 4698.253920072751,
+      "holding_arithmetic_only_output_Nm": 36.080000000000005
+    }
+  ],
+  "physical_test_status": "NOT_PERFORMED",
+  "robot_dynamic_simulation_status": "NOT_RUN_WITH_THIS_ACTUATOR",
+  "jx1_replacement_status": "FAIL: torque-speed, geometry and electrical interface not qualified",
+  "note": "Selected actuator capabilities are upstream catalogue values, not new measurements. Ratio calculations use assumed efficiency and hypothetical speed."
+}

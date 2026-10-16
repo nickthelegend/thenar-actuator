@@ -1,0 +1,170 @@
+{
+  "status": "PASS",
+  "components": [
+    {
+      "part": "11-output-flange",
+      "translation_error_m": 0.0,
+      "solid_count": 1
+    },
+    {
+      "part": "REF-input-retaining-washer",
+      "translation_error_m": 0.0,
+      "solid_count": 1
+    },
+    {
+      "part": "02-case-ring",
+      "translation_error_m": 0.0,
+      "solid_count": 1
+    },
+    {
+      "part": "04-bearing-retainer",
+      "translation_error_m": 0.0,
+      "solid_count": 1
+    },
+    {
+      "part": "03-front-bearing-cover",
+      "translation_error_m": 0.0,
+      "solid_count": 1
+    },
+    {
+      "part": "09-split-inner-spacer-A",
+      "translation_error_m": 0.0,
+      "solid_count": 1
+    },
+    {
+      "part": "01-back-plate",
+      "translation_error_m": 0.0,
+      "solid_count": 1
+    },
+    {
+      "part": "07-output-carrier",
+      "translation_error_m": 0.0,
+      "solid_count": 1
+    },
+    {
+      "part": "REF-ring-pin-02",
+      "translation_error_m": 1.734723475976807e-18,
+      "solid_count": 1
+    },
+    {
+      "part": "REF-ring-pin-03",
+      "translation_error_m": 1.734723475976807e-18,
+      "solid_count": 1
+    },
+    {
+      "part": "REF-ring-pin-04",
+      "translation_error_m": 1.734723475976807e-18,
+      "solid_count": 1
+    },
+    {
+      "part": "08-fit-coupon",
+      "translation_error_m": 0.0,
+      "solid_count": 1
+    },
+    {
+      "part": "REF-ring-pin-06",
+      "translation_error_m": 1.734723475976807e-18,
+      "solid_count": 1
+    },
+    {
+      "part": "09-split-inner-spacer-B",
+      "translation_error_m": 0.0,
+      "solid_count": 1
+    },
+    {
+      "part": "REF-6005-bearing",
+      "translation_error_m": 0.0,
+      "solid_count": 1
+    },
+    {
+      "part": "REF-ring-pin-05",
+      "translation_error_m": 1.734723475976807e-18,
+      "solid_count": 1
+    },
+    {
+      "part": "REF-ring-pin-07",
+      "translation_error_m": 1.734723475976807e-18,
+      "solid_count": 1
+    },
+    {
+      "part": "10-split-inner-spacer-A",
+      "translation_error_m": 0.0,
+      "solid_count": 1
+    },
+    {
+      "part": "REF-608-bearing",
+      "translation_error_m": 0.0,
+      "solid_count": 1
+    },
+    {
+      "part": "10-split-inner-spacer-B",
+      "translation_error_m": 0.0,
+      "solid_count": 1
+    },
+    {
+      "part": "05-cycloidal-disc",
+      "translation_error_m": 0.0,
+      "solid_count": 1
+    },
+    {
+      "part": "06-input-eccentric",
+      "translation_error_m": 1.734723475976807e-18,
+      "solid_count": 1
+    },
+    {
+      "part": "REF-JK42HS48-body",
+      "translation_error_m": 0.0,
+      "solid_count": 1
+    },
+    {
+      "part": "REF-motor-shaft",
+      "translation_error_m": 0.0,
+      "solid_count": 1
+    },
+    {
+      "part": "REF-ring-pin-01",
+      "translation_error_m": 1.734723475976807e-18,
+      "solid_count": 1
+    },
+    {
+      "part": "REF-ring-pin-08",
+      "translation_error_m": 1.734723475976807e-18,
+      "solid_count": 1
+    },
+    {
+      "part": "REF-output-pin-01",
+      "translation_error_m": 3.469446951953614e-18,
+      "solid_count": 1
+    },
+    {
+      "part": "REF-ring-pin-10",
+      "translation_error_m": 1.734723475976807e-18,
+      "solid_count": 1
+    },
+    {
+      "part": "REF-output-pin-04",
+      "translation_error_m": 3.469446951953614e-18,
+      "solid_count": 1
+    },
+    {
+      "part": "REF-ring-pin-09",
+      "translation_error_m": 1.734723475976807e-18,
+      "solid_count": 1
+    },
+    {
+      "part": "REF-output-pin-05",
+      "translation_error_m": 3.469446951953614e-18,
+      "solid_count": 1
+    },
+    {
+      "part": "REF-output-pin-02",
+      "translation_error_m": 3.469446951953614e-18,
+      "solid_count": 1
+    },
+    {
+      "part": "REF-output-pin-03",
+      "translation_error_m": 3.469446951953614e-18,
+      "solid_count": 1
+    }
+  ]
+}

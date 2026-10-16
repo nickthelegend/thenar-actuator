@@ -1,0 +1,20 @@
+{
+  "status": "CAD_ONLY_NOT_PHYSICALLY_TESTED",
+  "samples": 721,
+  "input_turns": 9,
+  "output_turns": -1,
+  "min_ring_pin_clearance_mm": 0.19955739795880145,
+  "min_output_pin_clearance_mm": 0.1999999999999975,
+  "min_case_clearance_mm": 5.200007080649044,
+  "printed_parts": 13,
+  "all_solids_valid": true,
+  "all_stls_watertight": true,
+  "limitations": [
+    "Prescribed kinematics; no dynamic simulation, strength, wear, thermal or torque validation.",
+    "Single disc is unbalanced. Low-speed bench use only. Not robot hardware.",
+    "Fits need coupon measurement. Steel pins need positive retention or validated retaining method.",
+    "No motor torque-speed curve or measured shaft flat available."
+  ],
+  "zero_pose_3d_intersection_candidates": 83,
+  "zero_pose_3d_interferences": []
+}

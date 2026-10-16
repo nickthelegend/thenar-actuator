@@ -1,0 +1,514 @@
+{
+  "version": "34.4.1",
+  "saved": [
+    {
+      "file": "01-back-plate.SLDPRT",
+      "errors": 0,
+      "warnings": 128
+    },
+    {
+      "file": "02-case-ring.SLDPRT",
+      "errors": 0,
+      "warnings": 128
+    },
+    {
+      "file": "03-front-bearing-cover.SLDPRT",
+      "errors": 0,
+      "warnings": 128
+    },
+    {
+      "file": "04-bearing-retainer.SLDPRT",
+      "errors": 0,
+      "warnings": 128
+    },
+    {
+      "file": "05-cycloidal-disc.SLDPRT",
+      "errors": 0,
+      "warnings": 128
+    },
+    {
+      "file": "06-input-eccentric.SLDPRT",
+      "errors": 0,
+      "warnings": 128
+    },
+    {
+      "file": "07-output-carrier.SLDPRT",
+      "errors": 0,
+      "warnings": 128
+    },
+    {
+      "file": "11-output-flange.SLDPRT",
+      "errors": 0,
+      "warnings": 128
+    },
+    {
+      "file": "09-split-inner-spacer-A.SLDPRT",
+      "errors": 0,
+      "warnings": 128
+    },
+    {
+      "file": "09-split-inner-spacer-B.SLDPRT",
+      "errors": 0,
+      "warnings": 128
+    },
+    {
+      "file": "10-split-inner-spacer-A.SLDPRT",
+      "errors": 0,
+      "warnings": 128
+    },
+    {
+      "file": "10-split-inner-spacer-B.SLDPRT",
+      "errors": 0,
+      "warnings": 128
+    },
+    {
+      "file": "08-fit-coupon.SLDPRT",
+      "errors": 0,
+      "warnings": 128
+    },
+    {
+      "file": "REF-608-bearing.SLDPRT",
+      "errors": 0,
+      "warnings": 128
+    },
+    {
+      "file": "REF-input-retaining-washer.SLDPRT",
+      "errors": 0,
+      "warnings": 128
+    },
+    {
+      "file": "REF-6005-bearing.SLDPRT",
+      "errors": 0,
+      "warnings": 128
+    },
+    {
+      "file": "REF-JK42HS48-body.SLDPRT",
+      "errors": 0,
+      "warnings": 128
+    },
+    {
+      "file": "REF-motor-shaft.SLDPRT",
+      "errors": 0,
+      "warnings": 128
+    },
+    {
+      "file": "REF-ring-pin-01.SLDPRT",
+      "errors": 0,
+      "warnings": 128
+    },
+    {
+      "file": "REF-ring-pin-02.SLDPRT",
+      "errors": 0,
+      "warnings": 128
+    },
+    {
+      "file": "REF-ring-pin-03.SLDPRT",
+      "errors": 0,
+      "warnings": 128
+    },
+    {
+      "file": "REF-ring-pin-04.SLDPRT",
+      "errors": 0,
+      "warnings": 128
+    },
+    {
+      "file": "REF-ring-pin-05.SLDPRT",
+      "errors": 0,
+      "warnings": 128
+    },
+    {
+      "file": "REF-ring-pin-06.SLDPRT",
+      "errors": 0,
+      "warnings": 128
+    },
+    {
+      "file": "REF-ring-pin-07.SLDPRT",
+      "errors": 0,
+      "warnings": 128
+    },
+    {
+      "file": "REF-ring-pin-08.SLDPRT",
+      "errors": 0,
+      "warnings": 128
+    },
+    {
+      "file": "REF-ring-pin-09.SLDPRT",
+      "errors": 0,
+      "warnings": 128
+    },
+    {
+      "file": "REF-ring-pin-10.SLDPRT",
+      "errors": 0,
+      "warnings": 128
+    },
+    {
+      "file": "REF-output-pin-01.SLDPRT",
+      "errors": 0,
+      "warnings": 128
+    },
+    {
+      "file": "REF-output-pin-02.SLDPRT",
+      "errors": 0,
+      "warnings": 128
+    },
+    {
+      "file": "REF-output-pin-03.SLDPRT",
+      "errors": 0,
+      "warnings": 128
+    },
+    {
+      "file": "REF-output-pin-04.SLDPRT",
+      "errors": 0,
+      "warnings": 128
+    },
+    {
+      "file": "REF-output-pin-05.SLDPRT",
+      "errors": 0,
+      "warnings": 128
+    },
+    {
+      "file": "THENAR-C9-DEMO-R1-NATIVE.SLDASM",
+      "errors": 0,
+      "warnings": 0
+    }
+  ],
+  "components": [
+    {
+      "name": "01-back-plate",
+      "file": "01-back-plate.SLDPRT",
+      "translation_mm": [
+        0,
+        0,
+        0
+      ],
+      "solid_count": 1
+    },
+    {
+      "name": "02-case-ring",
+      "file": "02-case-ring.SLDPRT",
+      "translation_mm": [
+        0,
+        0,
+        8
+      ],
+      "solid_count": 1
+    },
+    {
+      "name": "03-front-bearing-cover",
+      "file": "03-front-bearing-cover.SLDPRT",
+      "translation_mm": [
+        0,
+        0,
+        46
+      ],
+      "solid_count": 1
+    },
+    {
+      "name": "04-bearing-retainer",
+      "file": "04-bearing-retainer.SLDPRT",
+      "translation_mm": [
+        0,
+        0,
+        61
+      ],
+      "solid_count": 1
+    },
+    {
+      "name": "05-cycloidal-disc",
+      "file": "05-cycloidal-disc.SLDPRT",
+      "translation_mm": [
+        2,
+        0,
+        28.5
+      ],
+      "solid_count": 1
+    },
+    {
+      "name": "06-input-eccentric",
+      "file": "06-input-eccentric.SLDPRT",
+      "translation_mm": [
+        0,
+        0,
+        8
+      ],
+      "solid_count": 1
+    },
+    {
+      "name": "07-output-carrier",
+      "file": "07-output-carrier.SLDPRT",
+      "translation_mm": [
+        0,
+        0,
+        37
+      ],
+      "solid_count": 1
+    },
+    {
+      "name": "11-output-flange",
+      "file": "11-output-flange.SLDPRT",
+      "translation_mm": [
+        0,
+        0,
+        68
+      ],
+      "solid_count": 1
+    },
+    {
+      "name": "09-split-inner-spacer-A",
+      "file": "09-split-inner-spacer-A.SLDPRT",
+      "translation_mm": [
+        0,
+        0,
+        43
+      ],
+      "solid_count": 1
+    },
+    {
+      "name": "09-split-inner-spacer-B",
+      "file": "09-split-inner-spacer-B.SLDPRT",
+      "translation_mm": [
+        0,
+        0,
+        43
+      ],
+      "solid_count": 1
+    },
+    {
+      "name": "10-split-inner-spacer-A",
+      "file": "10-split-inner-spacer-A.SLDPRT",
+      "translation_mm": [
+        0,
+        0,
+        61
+      ],
+      "solid_count": 1
+    },
+    {
+      "name": "10-split-inner-spacer-B",
+      "file": "10-split-inner-spacer-B.SLDPRT",
+      "translation_mm": [
+        0,
+        0,
+        61
+      ],
+      "solid_count": 1
+    },
+    {
+      "name": "08-fit-coupon",
+      "file": "08-fit-coupon.SLDPRT",
+      "translation_mm": [
+        150,
+        0,
+        0
+      ],
+      "solid_count": 1
+    },
+    {
+      "name": "REF-608-bearing",
+      "file": "REF-608-bearing.SLDPRT",
+      "translation_mm": [
+        2,
+        0,
+        28
+      ],
+      "solid_count": 1
+    },
+    {
+      "name": "REF-input-retaining-washer",
+      "file": "REF-input-retaining-washer.SLDPRT",
+      "translation_mm": [
+        2,
+        0,
+        35
+      ],
+      "solid_count": 1
+    },
+    {
+      "name": "REF-6005-bearing",
+      "file": "REF-6005-bearing.SLDPRT",
+      "translation_mm": [
+        0,
+        0,
+        49
+      ],
+      "solid_count": 1
+    },
+    {
+      "name": "REF-JK42HS48-body",
+      "file": "REF-JK42HS48-body.SLDPRT",
+      "translation_mm": [
+        0,
+        0,
+        -48
+      ],
+      "solid_count": 1
+    },
+    {
+      "name": "REF-motor-shaft",
+      "file": "REF-motor-shaft.SLDPRT",
+      "translation_mm": [
+        0,
+        0,
+        0
+      ],
+      "solid_count": 1
+    },
+    {
+      "name": "REF-ring-pin-01",
+      "file": "REF-ring-pin-01.SLDPRT",
+      "translation_mm": [
+        43.0,
+        0.0,
+        6
+      ],
+      "solid_count": 1
+    },
+    {
+      "name": "REF-ring-pin-02",
+      "file": "REF-ring-pin-02.SLDPRT",
+      "translation_mm": [
+        34.78773075812274,
+        25.274765848576344,
+        6
+      ],
+      "solid_count": 1
+    },
+    {
+      "name": "REF-ring-pin-03",
+      "file": "REF-ring-pin-03.SLDPRT",
+      "translation_mm": [
+        13.287730758122741,
+        40.8954302006916,
+        6
+      ],
+      "solid_count": 1
+    },
+    {
+      "name": "REF-ring-pin-04",
+      "file": "REF-ring-pin-04.SLDPRT",
+      "translation_mm": [
+        -13.287730758122736,
+        40.89543020069161,
+        6
+      ],
+      "solid_count": 1
+    },
+    {
+      "name": "REF-ring-pin-05",
+      "file": "REF-ring-pin-05.SLDPRT",
+      "translation_mm": [
+        -34.787730758122734,
+        25.27476584857635,
+        6
+      ],
+      "solid_count": 1
+    },
+    {
+      "name": "REF-ring-pin-06",
+      "file": "REF-ring-pin-06.SLDPRT",
+      "translation_mm": [
+        -43.0,
+        5.2659812363336185e-15,
+        6
+      ],
+      "solid_count": 1
+    },
+    {
+      "name": "REF-ring-pin-07",
+      "file": "REF-ring-pin-07.SLDPRT",
+      "translation_mm": [
+        -34.78773075812274,
+        -25.27476584857634,
+        6
+      ],
+      "solid_count": 1
+    },
+    {
+      "name": "REF-ring-pin-08",
+      "file": "REF-ring-pin-08.SLDPRT",
+      "translation_mm": [
+        -13.287730758122745,
+        -40.8954302006916,
+        6
+      ],
+      "solid_count": 1
+    },
+    {
+      "name": "REF-ring-pin-09",
+      "file": "REF-ring-pin-09.SLDPRT",
+      "translation_mm": [
+        13.28773075812273,
+        -40.89543020069161,
+        6
+      ],
+      "solid_count": 1
+    },
+    {
+      "name": "REF-ring-pin-10",
+      "file": "REF-ring-pin-10.SLDPRT",
+      "translation_mm": [
+        34.787730758122734,
+        -25.274765848576354,
+        6
+      ],
+      "solid_count": 1
+    },
+    {
+      "name": "REF-output-pin-01",
+      "file": "REF-output-pin-01.SLDPRT",
+      "translation_mm": [
+        27.0,
+        0.0,
+        27
+      ],
+      "solid_count": 1
+    },
+    {
+      "name": "REF-output-pin-02",
+      "file": "REF-output-pin-02.SLDPRT",
+      "translation_mm": [
+        8.343458848123582,
+        25.678525939969145,
+        27
+      ],
+      "solid_count": 1
+    },
+    {
+      "name": "REF-output-pin-03",
+      "file": "REF-output-pin-03.SLDPRT",
+      "translation_mm": [
+        -21.84345884812358,
+        15.870201811896777,
+        27
+      ],
+      "solid_count": 1
+    },
+    {
+      "name": "REF-output-pin-04",
+      "file": "REF-output-pin-04.SLDPRT",
+      "translation_mm": [
+        -21.843458848123582,
+        -15.870201811896772,
+        27
+      ],
+      "solid_count": 1
+    },
+    {
+      "name": "REF-output-pin-05",
+      "file": "REF-output-pin-05.SLDPRT",
+      "translation_mm": [
+        8.343458848123575,
+        -25.67852593996915,
+        27
+      ],
+      "solid_count": 1
+    }
+  ],
+  "reopen_errors": 0,
+  "reopen_warnings": 0,
+  "native_components": 33,
+  "preview_save_result": 0,
+  "notes": [
+    "Imported solid-body parts; fixed placement assembly; no dynamic mates, FEA or physical validation."
+  ]
+}

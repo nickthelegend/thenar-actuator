@@ -1,0 +1,162 @@
+[
+  {
+    "path": "cad/demo-r1/print/01-back-plate.step",
+    "bytes": 93329,
+    "sha256": "954654923393343f2f2b0f343c499f918e4282a35f834f229342f5de9f52bf29"
+  },
+  {
+    "path": "cad/demo-r1/print/01-back-plate.stl",
+    "bytes": 581684,
+    "sha256": "f8caa71b95114101b630971b0b0888246ad64ca56805f237228617dc3e11ee09"
+  },
+  {
+    "path": "cad/demo-r1/print/02-case-ring.step",
+    "bytes": 57844,
+    "sha256": "f47ca400be751a361711b164ff990dd4107882ae2271b9e266719d208d6c6cae"
+  },
+  {
+    "path": "cad/demo-r1/print/02-case-ring.stl",
+    "bytes": 180084,
+    "sha256": "90eab1bc7b975a85312063b2c6925f9d9e68ffcca8d617a4c0a526d0a8267579"
+  },
+  {
+    "path": "cad/demo-r1/print/03-front-bearing-cover.step",
+    "bytes": 90484,
+    "sha256": "4b04e694f3754cf33f9532474f26b22d72a98621bf10f6023955d6174175a83b"
+  },
+  {
+    "path": "cad/demo-r1/print/03-front-bearing-cover.stl",
+    "bytes": 555684,
+    "sha256": "77309860d6c49a676dba682ff4ca4a7fbaf10b02a28473579899cb839ca19e78"
+  },
+  {
+    "path": "cad/demo-r1/print/04-bearing-retainer.step",
+    "bytes": 20688,
+    "sha256": "7c115e46988e7c91275be11b93279170cb7d16c88eb22d0f9038910744e33ff8"
+  },
+  {
+    "path": "cad/demo-r1/print/04-bearing-retainer.stl",
+    "bytes": 126684,
+    "sha256": "38907b27f8752cffe74595282da3c98b94710095bed46bd4e7017c423bcc2e4c"
+  },
+  {
+    "path": "cad/demo-r1/print/05-cycloidal-disc.step",
+    "bytes": 7512019,
+    "sha256": "451851ce93fb76b0ebb1328696a726f4937e1f998db76010636566a1eeb357b3"
+  },
+  {
+    "path": "cad/demo-r1/print/05-cycloidal-disc.stl",
+    "bytes": 521284,
+    "sha256": "396dba8f13e650f12348e65a5f790aa6052cd0ef7c60c8cac6402f60d3903934"
+  },
+  {
+    "path": "cad/demo-r1/print/06-input-eccentric.step",
+    "bytes": 76983,
+    "sha256": "8940383ac59f7a3bf2125275f66b5cadf89aeb42ff1701134a9e6fabec973d41"
+  },
+  {
+    "path": "cad/demo-r1/print/06-input-eccentric.stl",
+    "bytes": 136284,
+    "sha256": "f9570572a638241c8a8e9df1d0488594ec609319ba64c77ef5df04fa87a64b76"
+  },
+  {
+    "path": "cad/demo-r1/print/07-output-carrier.step",
+    "bytes": 41665,
+    "sha256": "72e91362d9190283d1a023b65d481164f5e38e1b28fb2c1ff9441e55cca6523c"
+  },
+  {
+    "path": "cad/demo-r1/print/07-output-carrier.stl",
+    "bytes": 251884,
+    "sha256": "e2df0eb9bcea66d708ab422b63a9618b21205d396b1f44d9195b43bfa4158fa5"
+  },
+  {
+    "path": "cad/demo-r1/print/08-fit-coupon.step",
+    "bytes": 29955,
+    "sha256": "100fedede4771227d3cfb41b5160d4155884d71fa1ed44e7dc6b89bc18f7e6d1"
+  },
+  {
+    "path": "cad/demo-r1/print/08-fit-coupon.stl",
+    "bytes": 102284,
+    "sha256": "054b6b6a5d03c62d8498676e32d4a63629c259ba5de436ec8fd4c492add35090"
+  },
+  {
+    "path": "cad/demo-r1/print/09-split-inner-spacer-A.step",
+    "bytes": 16657,
+    "sha256": "88f41cacf9f3817938411ccc0d63fb0ef7a051f9faa1f83ebda71d6d5843e236"
+  },
+  {
+    "path": "cad/demo-r1/print/09-split-inner-spacer-A.stl",
+    "bytes": 25484,
+    "sha256": "8bb3dd67fd1b88ea9660cac69b81dfc77a07b24b0cd6e2f39e43b58a07c4907e"
+  },
+  {
+    "path": "cad/demo-r1/print/09-split-inner-spacer-B.step",
+    "bytes": 16672,
+    "sha256": "581238970513d7fb0d521da4e710499c5e5955379c886082705d1ea7c30e61c2"
+  },
+  {
+    "path": "cad/demo-r1/print/09-split-inner-spacer-B.stl",
+    "bytes": 25484,
+    "sha256": "cd2c8e947a48b62a71ca8e3c5074cd4cb3bb6b840fc633c0f2037adc1f49290a"
+  },
+  {
+    "path": "cad/demo-r1/print/10-split-inner-spacer-A.step",
+    "bytes": 16657,
+    "sha256": "6e5753845e610e3c4251b685bbd3106567f58b87f8557d6938a3ae93f9f5dcae"
+  },
+  {
+    "path": "cad/demo-r1/print/10-split-inner-spacer-A.stl",
+    "bytes": 25484,
+    "sha256": "64b616e6a01dac3a6319e3e2ad052b61a2b85641a324e09eae84d41eb94004a8"
+  },
+  {
+    "path": "cad/demo-r1/print/10-split-inner-spacer-B.step",
+    "bytes": 16672,
+    "sha256": "f45488c1aeb5f7dfc4fd3537a3ab18f32ee034f479b3c3897f1b456c66699655"
+  },
+  {
+    "path": "cad/demo-r1/print/10-split-inner-spacer-B.stl",
+    "bytes": 25484,
+    "sha256": "27dbd570f48f6ce57edbcb50f0a20d3752d7293182fba130da1b99e057cfe681"
+  },
+  {
+    "path": "cad/demo-r1/print/11-output-flange.step",
+    "bytes": 43084,
+    "sha256": "4c417fc73886fb99ca170e29078e4600d631bd00ea27d01bdf850ebeef667988"
+  },
+  {
+    "path": "cad/demo-r1/print/11-output-flange.stl",
+    "bytes": 278884,
+    "sha256": "24d3a0aecd9a023faf1348040804adf5c3c1cc9b38b22fdba9514bbbfe0d717c"
+  },
+  {
+    "path": "cad/demo-r1/print-manifest.json",
+    "bytes": 3488,
+    "sha256": "c5be28f78417e123c2e8dcb63bcf102bc02447fc9789ff494bd9ad667e3fa43b"
+  },
+  {
+    "path": "cad/demo-r1/parameters.json",
+    "bytes": 486,
+    "sha256": "40af355fcc80cdac8c8bf5439bbefa0d5aaec41830de75e42f39ced11efe4f14"
+  },
+  {
+    "path": "cad/demo-r1/THENAR-C9-DEMO-R1.step",
+    "bytes": 8278047,
+    "sha256": "072bd807364ad685517d89a1a16a9e8f7dc49ece4bcf793912e2607d929837b1"
+  },
+  {
+    "path": "rfq/PRINT-REQUEST.txt",
+    "bytes": 1845,
+    "sha256": "ae7d6528d1c05d60769ef2fd03d8eda49ffcbb6c9a3ea9f700401493aebe3334"
+  },
+  {
+    "path": "docs/demo-build.md",
+    "bytes": 5291,
+    "sha256": "cf81a88dd92a372d57c9fd9f318ca51415f0c6502c436a11d4b100e562634e4a"
+  },
+  {
+    "path": "verification/geometry.json",
+    "bytes": 816,
+    "sha256": "a4f32f6cc0c91a60568025d7a9492fef00c28e28424a4d7cecbb9e2f42db8941"
+  }
+]

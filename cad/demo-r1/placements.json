@@ -1,0 +1,299 @@
+[
+  {
+    "name": "01-back-plate",
+    "translation_mm": [
+      0,
+      0,
+      0
+    ],
+    "printable": true
+  },
+  {
+    "name": "02-case-ring",
+    "translation_mm": [
+      0,
+      0,
+      8
+    ],
+    "printable": true
+  },
+  {
+    "name": "03-front-bearing-cover",
+    "translation_mm": [
+      0,
+      0,
+      46
+    ],
+    "printable": true
+  },
+  {
+    "name": "04-bearing-retainer",
+    "translation_mm": [
+      0,
+      0,
+      61
+    ],
+    "printable": true
+  },
+  {
+    "name": "05-cycloidal-disc",
+    "translation_mm": [
+      2,
+      0,
+      28.5
+    ],
+    "printable": true
+  },
+  {
+    "name": "06-input-eccentric",
+    "translation_mm": [
+      0,
+      0,
+      8
+    ],
+    "printable": true
+  },
+  {
+    "name": "07-output-carrier",
+    "translation_mm": [
+      0,
+      0,
+      37
+    ],
+    "printable": true
+  },
+  {
+    "name": "11-output-flange",
+    "translation_mm": [
+      0,
+      0,
+      68
+    ],
+    "printable": true
+  },
+  {
+    "name": "09-split-inner-spacer-A",
+    "translation_mm": [
+      0,
+      0,
+      43
+    ],
+    "printable": true
+  },
+  {
+    "name": "09-split-inner-spacer-B",
+    "translation_mm": [
+      0,
+      0,
+      43
+    ],
+    "printable": true
+  },
+  {
+    "name": "10-split-inner-spacer-A",
+    "translation_mm": [
+      0,
+      0,
+      61
+    ],
+    "printable": true
+  },
+  {
+    "name": "10-split-inner-spacer-B",
+    "translation_mm": [
+      0,
+      0,
+      61
+    ],
+    "printable": true
+  },
+  {
+    "name": "08-fit-coupon",
+    "translation_mm": [
+      150,
+      0,
+      0
+    ],
+    "printable": true
+  },
+  {
+    "name": "REF-608-bearing",
+    "translation_mm": [
+      2,
+      0,
+      28
+    ],
+    "printable": false
+  },
+  {
+    "name": "REF-input-retaining-washer",
+    "translation_mm": [
+      2,
+      0,
+      35
+    ],
+    "printable": false
+  },
+  {
+    "name": "REF-6005-bearing",
+    "translation_mm": [
+      0,
+      0,
+      49
+    ],
+    "printable": false
+  },
+  {
+    "name": "REF-JK42HS48-body",
+    "translation_mm": [
+      0,
+      0,
+      -48
+    ],
+    "printable": false
+  },
+  {
+    "name": "REF-motor-shaft",
+    "translation_mm": [
+      0,
+      0,
+      0
+    ],
+    "printable": false
+  },
+  {
+    "name": "REF-ring-pin-01",
+    "translation_mm": [
+      43.0,
+      0.0,
+      6
+    ],
+    "printable": false
+  },
+  {
+    "name": "REF-ring-pin-02",
+    "translation_mm": [
+      34.78773075812274,
+      25.274765848576344,
+      6
+    ],
+    "printable": false
+  },
+  {
+    "name": "REF-ring-pin-03",
+    "translation_mm": [
+      13.287730758122741,
+      40.8954302006916,
+      6
+    ],
+    "printable": false
+  },
+  {
+    "name": "REF-ring-pin-04",
+    "translation_mm": [
+      -13.287730758122736,
+      40.89543020069161,
+      6
+    ],
+    "printable": false
+  },
+  {
+    "name": "REF-ring-pin-05",
+    "translation_mm": [
+      -34.787730758122734,
+      25.27476584857635,
+      6
+    ],
+    "printable": false
+  },
+  {
+    "name": "REF-ring-pin-06",
+    "translation_mm": [
+      -43.0,
+      5.2659812363336185e-15,
+      6
+    ],
+    "printable": false
+  },
+  {
+    "name": "REF-ring-pin-07",
+    "translation_mm": [
+      -34.78773075812274,
+      -25.27476584857634,
+      6
+    ],
+    "printable": false
+  },
+  {
+    "name": "REF-ring-pin-08",
+    "translation_mm": [
+      -13.287730758122745,
+      -40.8954302006916,
+      6
+    ],
+    "printable": false
+  },
+  {
+    "name": "REF-ring-pin-09",
+    "translation_mm": [
+      13.28773075812273,
+      -40.89543020069161,
+      6
+    ],
+    "printable": false
+  },
+  {
+    "name": "REF-ring-pin-10",
+    "translation_mm": [
+      34.787730758122734,
+      -25.274765848576354,
+      6
+    ],
+    "printable": false
+  },
+  {
+    "name": "REF-output-pin-01",
+    "translation_mm": [
+      27.0,
+      0.0,
+      27
+    ],
+    "printable": false
+  },
+  {
+    "name": "REF-output-pin-02",
+    "translation_mm": [
+      8.343458848123582,
+      25.678525939969145,
+      27
+    ],
+    "printable": false
+  },
+  {
+    "name": "REF-output-pin-03",
+    "translation_mm": [
+      -21.84345884812358,
+      15.870201811896777,
+      27
+    ],
+    "printable": false
+  },
+  {
+    "name": "REF-output-pin-04",
+    "translation_mm": [
+      -21.843458848123582,
+      -15.870201811896772,
+      27
+    ],
+    "printable": false
+  },
+  {
+    "name": "REF-output-pin-05",
+    "translation_mm": [
+      8.343458848123575,
+      -25.67852593996915,
+      27
+    ],
+    "printable": false
+  }
+]

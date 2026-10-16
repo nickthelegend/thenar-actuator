@@ -1,0 +1,20 @@
+{
+  "ring_pins": 10,
+  "ratio": 9,
+  "pin_pitch_radius": 43.0,
+  "pin_radius": 4.0,
+  "eccentricity": 2.0,
+  "profile_clearance": 0.2,
+  "case_diameter": 110.0,
+  "output_pins": 5,
+  "output_pin_radius": 27.0,
+  "output_pin_diameter": 5.0,
+  "output_hole_diameter": 9.4,
+  "motor_shaft_bore": 5.2,
+  "motor_mount_pitch": 31.0,
+  "motor_pilot_pocket": 22.4,
+  "disc_bearing_bore": 22.2,
+  "output_bearing_bore": 47.2,
+  "input_journal": 7.9,
+  "output_journal": 24.9
+}

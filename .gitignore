@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+~$*
+*.sldbak
+*.SLDBAK
+*.log
+*.tmp
+.env*
+cad/demo-r1/solidworks/THENAR-C9-DEMO-R1.SLDASM
+cad/demo-r1/solidworks/THENAR-C9-DEMO-R1.step

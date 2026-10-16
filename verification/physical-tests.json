@@ -1,0 +1,12 @@
+{
+  "status": "NOT_PERFORMED",
+  "hardware_connected": false,
+  "physical_prototype_built": false,
+  "robot_driven": false,
+  "measured_torque_Nm": null,
+  "measured_speed_rpm": null,
+  "measured_backdrive_torque_Nm": null,
+  "measured_efficiency": null,
+  "measured_temperature_C": null,
+  "production_release": false
+}
