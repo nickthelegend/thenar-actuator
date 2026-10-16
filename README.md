@@ -8,6 +8,8 @@ A 9:1 printed cycloidal bench demonstrator for the JK42HS48-1684 lab stepper, an
 
 ## Open the model
 
+- [Download native SolidWorks assembly with all 33 dependent parts](https://github.com/nickthelegend/thenar-actuator/releases/download/demo-r1/THENAR-C9-DEMO-R1-SOLIDWORKS.zip) — extract the complete ZIP, then open `THENAR-C9-DEMO-R1-NATIVE.SLDASM`.
+- [Download the complete print quotation package](https://github.com/nickthelegend/thenar-actuator/releases/download/demo-r1/THENAR-C9-DEMO-R1-RFQ.zip)
 - [STEP assembly](cad/demo-r1/THENAR-C9-DEMO-R1.step)
 - [SolidWorks assembly and dependent parts](cad/demo-r1/solidworks/) — imported solid bodies, not reconstructed sketch features or a mated motion assembly.
 - [Individual STL and STEP print files](cad/demo-r1/print/)
